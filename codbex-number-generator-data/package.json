@@ -1,6 +1,6 @@
 {
     "name": "@codbex/codbex-number-generator-data",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "repository": {
         "url": "https://github.com/codbex/codbex-number-generator-data.git",
         "type": "git"
