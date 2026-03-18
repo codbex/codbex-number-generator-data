@@ -24,9 +24,10 @@ NUMBER_ID,NUMBER_TYPE,NUMBER_PREFIX,NUMBER_LENGTH,NUMBER_VALUE
 23,Contract,CO,10,0
 24,Delivery Note,DE,10,0
 25,Waste,WA,10,0
-26,Jop Position,JP,10,0
+26,Job Position,JP,10,0
 27,Job Assignment,JA,10,0
 28,Employee Contract,ECO,10,0
 29,Project,PRO,10,0
 30,Leave Request,LRD,10,0
 31,Payroll Entry,PRE,10,0
+
