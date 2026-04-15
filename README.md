@@ -1,5 +1,3 @@
-#### codbex-number-generator-data
-
 ## Local Development with Docker
 
 When running this project inside the codbex Atlas Docker image, you must provide authentication for installing dependencies from GitHub Packages.
