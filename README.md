@@ -1,4 +1,14 @@
-## Local Development with Docker
+# <img src="https://www.codbex.com/icon.svg" width="32" style="vertical-align: middle;"> codbex-number-generator-data
+
+## 📖 Table of Contents
+* [📦 Data](#-data)
+* [🐳 Local Development with Docker](#-local-development-with-docker)
+
+## 📦 Data 
+
+* [Number](https://github.com/codbex/codbex-number-generator-data/tree/main/codbex-number-generator-data)
+
+## 🐳 Local Development with Docker
 
 When running this project inside the codbex Atlas Docker image, you must provide authentication for installing dependencies from GitHub Packages.
 1. Create a GitHub Personal Access Token (PAT) with `read:packages` scope.
